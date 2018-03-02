@@ -1,3 +1,3 @@
 # SIMPLETEST
 
-[文档地址demo](testars.oss-cn-beijing.aliyuncs.com)
+[文档地址demo](http://testars.oss-cn-beijing.aliyuncs.com)
