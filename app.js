@@ -34,7 +34,7 @@ app.get('/', function (req, res) {
 app.use(APIOutputMiddleware)
 
 app.use('/', require('./routes'))
-
+console.log('ok')
 maskErrors(graphQLSchema)
 
 app.use('/public/graphql', graphqlHTTP({
